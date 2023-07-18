@@ -47,9 +47,9 @@ Bu repo aşağıdaki dosyaları içermektedir:
 
 ---
 
-### Patika.dev Profilim
+### Github Profilim
 
-Proje sahibi: [Yunus Emre BAŞ](https://app.patika.dev/shqiptarbas)
+Proje sahibi: [Yunus Emre BAŞ](https://github.com/emreyunusbas)
 
 Daha fazla bilgi için ilgili Patika.dev profilimi ziyaret edebilirsiniz.
 
